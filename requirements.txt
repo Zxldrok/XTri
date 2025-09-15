@@ -1,0 +1,20 @@
+# Interface graphique et widgets
+# tkinter est inclus avec Python par défaut
+
+# Informations système et gestion des processus
+psutil>=5.9.0
+
+# Graphiques et visualisation
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Gestion avancée des processus Windows
+pywin32>=306; sys_platform == "win32"
+
+# Interface utilisateur avancée
+Pillow>=10.0.0
+
+# Utilitaires de développement (optionnel)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
