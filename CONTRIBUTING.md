@@ -8,11 +8,11 @@ Merci de votre intérêt pour contribuer à XTri ! Ce guide vous aidera à compr
 
 ```bash
 # Fork le repository sur GitHub, puis clonez votre fork
-git clone https://github.com/VOTRE-USERNAME/XTri.git
+git clone https://github.com/Zxldrok/XTri.git
 cd XTri
 
 # Ajoutez le repository original comme remote
-git remote add upstream https://github.com/ORIGINAL-USERNAME/XTri.git
+git remote add upstream https://github.com/Zxldrok/XTri.git
 ```
 
 ### 2. Configuration de l'Environnement
