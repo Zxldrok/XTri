@@ -12,8 +12,10 @@ Une suite complète d'outils d'optimisation PC avec interface graphique moderne,
 - **Gestion des conflits** de noms de fichiers
 - **Barre de progression** en temps réel
 - **Statistiques détaillées** après organisation
+<img width="994" height="775" alt="image" src="https://github.com/user-attachments/assets/acda8514-fc18-4954-b4b1-43a8d40c18ab" />
 
-### 🧹 Outils d'Optimisation PC<img width="994" height="775" alt="image" src="https://github.com/user-attachments/assets/9c257e3f-fc78-4054-a7a3-2cbb72da79fa" />
+
+### 🧹 Outils d'Optimisation PC
 
 - **Nettoyage des fichiers temporaires** Windows
 - **Gestion de la corbeille** (analyse et vidage)
