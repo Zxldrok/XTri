@@ -70,7 +70,7 @@ Une suite complète d'outils d'optimisation PC avec interface graphique moderne,
 
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/XTri.git
+git clone https://github.com/Zxldrok/XTri.git
 cd XTri
 
 # Créer un environnement virtuel
