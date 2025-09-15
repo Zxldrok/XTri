@@ -13,7 +13,8 @@ Une suite complète d'outils d'optimisation PC avec interface graphique moderne,
 - **Barre de progression** en temps réel
 - **Statistiques détaillées** après organisation
 
-### 🧹 Outils d'Optimisation PC
+### 🧹 Outils d'Optimisation PC<img width="994" height="775" alt="image" src="https://github.com/user-attachments/assets/9c257e3f-fc78-4054-a7a3-2cbb72da79fa" />
+
 - **Nettoyage des fichiers temporaires** Windows
 - **Gestion de la corbeille** (analyse et vidage)
 - **Analyse de l'espace disque** avec détails par dossier
